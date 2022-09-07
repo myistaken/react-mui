@@ -6,7 +6,7 @@ const App = () => {
         <CssBaseline />
         <AppBar position="relative">
             <Toolbar>
-                <Typography variant='h2'>Hello World</Typography>
+                <Typography variant='h2'>Hello World!</Typography>
             </Toolbar>
 
         </AppBar>
